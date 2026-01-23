@@ -1,6 +1,0 @@
-     WEEK INDICATOR        : | |      * B=BWW  E=EWW  N=N/A *           00010000
-     MONTH INDICATOR       : | |      * B=BWM  E=EWM  N=N/A *           00020000
-     HALF-MONTH INDICATOR  : | |      * Y=YES  N=NO         *           00030000
-     HALF-YEAR INDICATOR   : | |      * B=BHY  E=EHY  N=N/A *           00040000
-     REQUEST RUN INDICATOR : | |      * R=REQUEST   ' '=NOT *           00050000
-     WEEK DATE   0 - 6     : | |      * 0-6=CHANGE  ' '=NOT *           00060000
